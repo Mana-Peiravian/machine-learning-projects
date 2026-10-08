@@ -1,0 +1,477 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 66,
+    "sha256": "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b"
+  },
+  {
+    "path": "1/Homework1.pdf",
+    "bytes": 189012,
+    "sha256": "cd7f85763127be1f2ae1a96f15efb3fb544a72fe667405e871579bea7b9eebbe"
+  },
+  {
+    "path": "1/HW#1 - Report.docx",
+    "bytes": 423745,
+    "sha256": "bf583c082cfc6648631ca2bcbf1e06adedd0fa8496e6371ddb258b31417d5bd9"
+  },
+  {
+    "path": "1/HW#1 - Report.pdf",
+    "bytes": 614421,
+    "sha256": "1b2c3d52ebd4eae1ba33aa4e97d25a3097276ead2f1792b9eaccc1dd9679d860"
+  },
+  {
+    "path": "1/HW1-G.pdf",
+    "bytes": 183876,
+    "sha256": "1a46b884103667ae9139c30732daaa56c7eccb9a381e9e284d45e07862be45b8"
+  },
+  {
+    "path": "1/README.md",
+    "bytes": 4552,
+    "sha256": "2539125209899e0c1a3c6353aeb892c2dba08596d1c46b838b3865455c1cd200"
+  },
+  {
+    "path": "1/code/snake_game/play_snake_linear.py",
+    "bytes": 3109,
+    "sha256": "500eebfc7f37e9669610977ba9daa03eacf8f01f970be6974b96a0956c526925"
+  },
+  {
+    "path": "1/code/snake_game/README.md",
+    "bytes": 364,
+    "sha256": "e96ebc00c29d7e925f50d72e9223f411c088f2df1cb5091857cfdaf90089e5e1"
+  },
+  {
+    "path": "1/code/snake_game/snake_linear_agent.py",
+    "bytes": 15804,
+    "sha256": "9472aea02f750c39baf2d87ddfaaf4aae8738b3ae6a182ef1b48780863a1159c"
+  },
+  {
+    "path": "1/code/snake_game/snake_linear_weights.pkl",
+    "bytes": 890,
+    "sha256": "deee2b77e76b84364fea207159745cc64e2ff75927645a57f6cbac1006263cd9"
+  },
+  {
+    "path": "1/code/snake_game/train_snake_linear.py",
+    "bytes": 876,
+    "sha256": "a4f0358d540ba343eaab686c987106e67ab0e2ba6c215d2f5ec065a1c72d899d"
+  },
+  {
+    "path": "1/code/snake_game/__pycache__/snake_linear_agent.cpython-313.pyc",
+    "bytes": 23556,
+    "sha256": "2207ca9490f3a8b9613b034c5566fb0d8051f902d870caab9026f45268ad54b2"
+  },
+  {
+    "path": "1/code/tictactoe_game/play_tictactoe_linear.py",
+    "bytes": 5605,
+    "sha256": "82a5dccbab5f55f8bafadd6f218ce40c9641a26a095e32f5f0cbcb822b5fa8b9"
+  },
+  {
+    "path": "1/code/tictactoe_game/README.md",
+    "bytes": 538,
+    "sha256": "2699e3baf36b97030821f9adc10c75fa4daa46caf84324220b4b3e72c95ecd54"
+  },
+  {
+    "path": "1/code/tictactoe_game/tictactoe_linear_agent.py",
+    "bytes": 12084,
+    "sha256": "5a9a7555e89da53aa5c066286484f992e609e76e6a7e47981cc20913902f74b3"
+  },
+  {
+    "path": "1/code/tictactoe_game/tictactoe_linear_weights.pkl",
+    "bytes": 467,
+    "sha256": "22079439c070453096cb56ee097e6b389304693dd96d450c80ceaecf6a33f208"
+  },
+  {
+    "path": "1/code/tictactoe_game/train_tictactoe_linear.py",
+    "bytes": 2270,
+    "sha256": "46e910a1ca27d4a9d532bea8b99dee133e03b124cd38c9cbac6d4a01d7401284"
+  },
+  {
+    "path": "1/code/tictactoe_game/__pycache__/tictactoe_linear_agent.cpython-313.pyc",
+    "bytes": 18199,
+    "sha256": "97857aad95a1355aacf98e7f7bdd06afc5d3c3a6b848b6404f24add2c95aa685"
+  },
+  {
+    "path": "2/ML_HW2_Ensemble_Learning_Report.docx",
+    "bytes": 191462,
+    "sha256": "bf9ac04ab0a2a8d485e76518facf9236f29873eafdc482f8546fa97a01be54c1"
+  },
+  {
+    "path": "2/report.pdf",
+    "bytes": 470166,
+    "sha256": "2c1d84561724e80e384db6016b22eeb238df1666941d2ad83ee06e9f03e60956"
+  },
+  {
+    "path": "2/code/common.py",
+    "bytes": 5551,
+    "sha256": "03d710c4d1778fd78a475b0e4a72b729d7b1cbff2be09760bedf776a2755c28f"
+  },
+  {
+    "path": "2/code/Covid.csv",
+    "bytes": 120662,
+    "sha256": "f4057868867c025ff6c86e26e12f12c115e764c5799bb3426ddeb0ab54029d78"
+  },
+  {
+    "path": "2/code/requirements.txt",
+    "bytes": 57,
+    "sha256": "0d1fb4f9fceaf6a6b145c08a5a52b99847d8e525c3945ad1dc377bc6c4293c63"
+  },
+  {
+    "path": "2/code/run_all.py",
+    "bytes": 839,
+    "sha256": "c7d5a8cf5d4f57c5540209651edeacb1c8ec1af438d392443c09f77b6171f598"
+  },
+  {
+    "path": "2/code/task1_hddt.py",
+    "bytes": 6020,
+    "sha256": "6a8179077f1491f147ecfe2dab076f874b39618d9935e8d74fc7b6ccd875be97"
+  },
+  {
+    "path": "2/code/task2_bagging.py",
+    "bytes": 5319,
+    "sha256": "7590f4284e9807a3ba534251e13e8a7a2916740448b1130520380b6081ebbe50"
+  },
+  {
+    "path": "2/code/task3_adaboost.py",
+    "bytes": 6312,
+    "sha256": "854d39f33bc57176d9e729e83893b3cac12a2384f553f26a4bbb97fe70d8438f"
+  },
+  {
+    "path": "2/code/__pycache__/common.cpython-313.pyc",
+    "bytes": 8876,
+    "sha256": "0a215f0c0366ebdf399b6fb44aae439c5a077e19d550c35210fc6623f48cba3e"
+  },
+  {
+    "path": "2/code/__pycache__/task1_hddt.cpython-313.pyc",
+    "bytes": 11341,
+    "sha256": "19e6f70f4f73be1cae738425eab226f564fe17109ecfff157bda92756c955066"
+  },
+  {
+    "path": "2/code/__pycache__/task2_bagging.cpython-313.pyc",
+    "bytes": 9467,
+    "sha256": "fdf659ea47a411f99b87152f0dd2e4434b021a4c5cfbb53a93d0dc038dba1d24"
+  },
+  {
+    "path": "2/code/__pycache__/task3_adaboost.cpython-313.pyc",
+    "bytes": 11956,
+    "sha256": "ed8a9f18106d042e6beae150fa51ac772881f81f3adaa67fed0bed13cea892be"
+  },
+  {
+    "path": "2/figures/task1_pruning.png",
+    "bytes": 42630,
+    "sha256": "d279d0f015c3c03b6b8cb0cf76837b43ed7aa4fc69d7f1d69477b20a45e303f5"
+  },
+  {
+    "path": "2/figures/task2_T.png",
+    "bytes": 36176,
+    "sha256": "fbae2c9e6d7cce6214b22d66279d99b800ee8e09322813e12820c648d9e46d0f"
+  },
+  {
+    "path": "2/figures/task3_rounds.png",
+    "bytes": 62411,
+    "sha256": "e3a11d6b2908cd017db4ccaf3e25f1efdc6f3b23673d425add5a7338e825600a"
+  },
+  {
+    "path": "2/results/task1_depth_2.csv",
+    "bytes": 663,
+    "sha256": "b862a64ed5c1fa336b9ca68170d304bc184533b865333a68e15a28a593d1093b"
+  },
+  {
+    "path": "2/results/task1_depth_3.csv",
+    "bytes": 663,
+    "sha256": "d0868dac3d952fc43ad38e27f1303d818f246e55ad7a37ec7371b937b34c1e30"
+  },
+  {
+    "path": "2/results/task1_depth_4.csv",
+    "bytes": 664,
+    "sha256": "687db22e359ad119f239aefebcec106cfaf0306479862a497c98f0546c249330"
+  },
+  {
+    "path": "2/results/task1_depth_5.csv",
+    "bytes": 713,
+    "sha256": "b1c4401ce6b8d9f7f43fb5fc2b08209327abdd510409bbc63ecf8ddf3e784775"
+  },
+  {
+    "path": "2/results/task1_depth_None.csv",
+    "bytes": 1189,
+    "sha256": "8db000b8b8cd08aa6404ae5fc516c9c0fa2d8012cc4e1d18ea83a189a479661f"
+  },
+  {
+    "path": "2/results/task1_pruning_summary.csv",
+    "bytes": 1145,
+    "sha256": "36ba388921a274b604d017150c7bd7ecc42909867999ff0e537758f97de40d3e"
+  },
+  {
+    "path": "2/results/task2_base_learner.csv",
+    "bytes": 2646,
+    "sha256": "8288f883eb27ac4fe6ae3749605cb93166c4c18344e3f2765754df0e7f68bb47"
+  },
+  {
+    "path": "2/results/task2_ensemble_size.csv",
+    "bytes": 4752,
+    "sha256": "13a22cbde6c097edc1920342c6deff59c6b3508896cbb4f462e8c47b9ba7c2ed"
+  },
+  {
+    "path": "2/results/task2_ensemble_size_summary.csv",
+    "bytes": 1142,
+    "sha256": "597d6ca84f7a0702fb9229b97203b6e6b5f14923d1aba272da8b7c4a3d9f2bac"
+  },
+  {
+    "path": "2/results/task3_rounds.csv",
+    "bytes": 6203,
+    "sha256": "41b767b7f9cca5fe54693558f35e3d01d762d5b288cfeed3842e3d6096de2f5e"
+  },
+  {
+    "path": "2/results/task3_rounds_summary.csv",
+    "bytes": 593,
+    "sha256": "bf7ab9ee81e467dae125c75743ccebeb718e75c1d17be4e5fd0c28de308a60f8"
+  },
+  {
+    "path": "2/results/task3_smote_comparison.csv",
+    "bytes": 2092,
+    "sha256": "4c63b1c1141efb6536e39f1e11bac5a058067467993151312b7e3f0238ec3e41"
+  },
+  {
+    "path": "3/ML_Homework_Complete.ipynb",
+    "bytes": 91835,
+    "sha256": "dac86e0a56ba67ae4cd03b6396a9a1a6a758dc1f309762b769e1cef68c28be42"
+  },
+  {
+    "path": "3/report.pdf",
+    "bytes": 634100,
+    "sha256": "6eadc86d67f8c350a2db562a761d86450dc2bb2788ed8a2fb1063edf07c989fc"
+  },
+  {
+    "path": "3/artifacts/algorithm_applicability.csv",
+    "bytes": 681,
+    "sha256": "e84b8b5ef7147a291345f07e1e267f84e5622dc5a2ad5d50f0a8f486a0160bb2"
+  },
+  {
+    "path": "3/artifacts/bias_group_metrics.csv",
+    "bytes": 5799,
+    "sha256": "7963b39aca8fc4ddf04eddb6241122447ac3530f2e1437ce8e8c2e70740b13d2"
+  },
+  {
+    "path": "3/artifacts/cross_dataset_engineering_evidence.csv",
+    "bytes": 617,
+    "sha256": "74b816a2457590f228799bd29b3ccba38f302d27c1bf643e561ad4049f75ae8e"
+  },
+  {
+    "path": "3/artifacts/cross_dataset_kernel_benefit.csv",
+    "bytes": 150,
+    "sha256": "11d03be583e42269fb26880537e5154fe5dd2fcb34bc5073191eb615ead076be"
+  },
+  {
+    "path": "3/artifacts/distribution_bias_summary.csv",
+    "bytes": 596,
+    "sha256": "5090644ebd3ac02d7c066933b5d627adeae1d7df1cb1716a0a52b3d27ca23be1"
+  },
+  {
+    "path": "3/artifacts/experiment_task_inventory.csv",
+    "bytes": 470,
+    "sha256": "ee9a6cf1bb2cbccd9b33094acc8654be93a4ce0c393716f1e6bb8accc88bcd03"
+  },
+  {
+    "path": "3/artifacts/failure_postmortem_all_tasks.csv",
+    "bytes": 31368,
+    "sha256": "8566fd29475bb8859791daec1d3cafbfed4011615608b6d231b28b5d3673ca3a"
+  },
+  {
+    "path": "3/artifacts/hr_resampling_comparison.csv",
+    "bytes": 615,
+    "sha256": "16e9d2fafbe5fcc72eacd707eb50a59e4c6490810bfccd2a140e3af1a6b7e235"
+  },
+  {
+    "path": "3/artifacts/kernel_complexity.csv",
+    "bytes": 1106,
+    "sha256": "d9e247937c2cef3f842a7270e2b42ee7b4885fd148ea7af8b477348380da1613"
+  },
+  {
+    "path": "3/artifacts/kernel_geometry.csv",
+    "bytes": 2547,
+    "sha256": "8d4c38523aea65cb64cb6e3a78efd4ee869d08cc50d56708e7ad7089d5242bcf"
+  },
+  {
+    "path": "3/artifacts/kernel_justification_table.csv",
+    "bytes": 2135,
+    "sha256": "77c81ea84d1d06a657bc2c14c9d7eb796c29fdec17faef9fa58ffc90c48d8f2a"
+  },
+  {
+    "path": "3/artifacts/kernel_performance_and_geometry.csv",
+    "bytes": 11547,
+    "sha256": "48e8c49e025d67c60937c9d2452c13f375a726b0602429f33c63d0622ca260f3"
+  },
+  {
+    "path": "3/artifacts/label_quality_audit.csv",
+    "bytes": 861,
+    "sha256": "5323253f2b91167223870d626026d5f46e98f5ffb18e062fd916147352a77d1b"
+  },
+  {
+    "path": "3/artifacts/leakage_audit.csv",
+    "bytes": 650,
+    "sha256": "ac60aa5a6f3e94f56298fef11ee32e379b4032876a7e94a440c5bd56b46806c0"
+  },
+  {
+    "path": "3/artifacts/missingness_association_tests.csv",
+    "bytes": 6488,
+    "sha256": "d9e8733521e7cb00831c4c2d6a09be36fe086cdecbcbd22cbe66b9e824bdb45b"
+  },
+  {
+    "path": "3/artifacts/missingness_mechanism_assessment.csv",
+    "bytes": 1353,
+    "sha256": "3941c0575878ea4394280c484e933af753ab054bfc2e8607fc1e993b995ff3be"
+  },
+  {
+    "path": "3/artifacts/model_performance_overview.png",
+    "bytes": 139362,
+    "sha256": "8ae32273060073be4aaa8f1f12efa2abd1124c67c83cc47970f3c227798f2ad4"
+  },
+  {
+    "path": "3/artifacts/model_results.csv",
+    "bytes": 11387,
+    "sha256": "a226ad54db0ad4c4dffe7d383fb00db36898d96a2e20bdfd94c8ab5180f5179a"
+  },
+  {
+    "path": "3/artifacts/near_constant_features.csv",
+    "bytes": 9328,
+    "sha256": "6d88fb8102865035c9e7f4491936bb6ba4297f56721d794d500f90515a3684d5"
+  },
+  {
+    "path": "3/artifacts/outlier_method_comparison.csv",
+    "bytes": 1325,
+    "sha256": "5e1223679113f313bc3c8e5db5acb5384d54748125f2acaa70c3c4b4fc9aec1c"
+  },
+  {
+    "path": "3/artifacts/outlier_method_counts.png",
+    "bytes": 52961,
+    "sha256": "b712235bae3dd1cb7e9ba61b2b8323cccc4cfad43bd91b634646f843c6b4742b"
+  },
+  {
+    "path": "3/artifacts/redundant_features.csv",
+    "bytes": 666,
+    "sha256": "d4099afb024ca06a0e521b47aba08e167feb49356b13f50d67b296c125b00969"
+  },
+  {
+    "path": "3/artifacts/training_time_scaling.png",
+    "bytes": 135413,
+    "sha256": "e8104d0894e5ec73b226bf7202c0afb27ea1cce6892c513244ce645210fd2181"
+  },
+  {
+    "path": "3/artifacts/worst_10_airbnb_price.csv",
+    "bytes": 3642,
+    "sha256": "8088b59cb9d59f5afe28ae1262de6f95d58947d61a5916a498d8ae950bee70f1"
+  },
+  {
+    "path": "3/artifacts/worst_10_airbnb_superhost.csv",
+    "bytes": 3365,
+    "sha256": "30a5061ea5d5170a5dbe365fd136cc15fe9128af36cc7544e9747b20154ce020"
+  },
+  {
+    "path": "3/artifacts/worst_10_hr_attrition.csv",
+    "bytes": 2773,
+    "sha256": "6dc6564a069581162edb259a37c2029a1c0c51f54140e38f354062d3c5026537"
+  },
+  {
+    "path": "3/artifacts/worst_10_nyc_complaint.csv",
+    "bytes": 2760,
+    "sha256": "a0eb3af8beec21865ee620b8b1c36265cb2b9874b76bc5c5e8bcbd31c47fc16e"
+  },
+  {
+    "path": "3/artifacts/worst_10_nyc_resolution.csv",
+    "bytes": 3117,
+    "sha256": "bfa8b0569cbf255d69dcb2ca67dbb7c7d9c600195fb14809623fd506a1becfcd"
+  },
+  {
+    "path": "3/artifacts/worst_10_retail_segment.csv",
+    "bytes": 2193,
+    "sha256": "db31717ca6ce6fb4675a0038f3915ca877c10f66796ce73fc23966246e4106a0"
+  },
+  {
+    "path": "3/artifacts/worst_10_retail_spending.csv",
+    "bytes": 2878,
+    "sha256": "a6ad8e363fa055bcf587491b37adf20c34997673bbeedf6fb267a4c439ba7aa5"
+  },
+  {
+    "path": "3/cache/nyc311_hash_sample_2795118321_1782164763100756400_100.pkl",
+    "bytes": 5416645,
+    "sha256": "75948e412c1afc4654d67bd4938ddf0c17003edfd463e74c3cff7fb40ad41b9e"
+  },
+  {
+    "path": "3/cache/nyc311_population_counts_2795118321_1782164763100756400_100.json",
+    "bytes": 5542,
+    "sha256": "8813055cc6010575a04e5469e7a72103662c4e799b0e0a80ed5fbca3c1d8c7bd"
+  },
+  {
+    "path": "3/processed/model_tables/airbnb_regression.csv",
+    "bytes": 4889826,
+    "sha256": "9a09984a99c359e9f25ce4ff3b81a4e40ebb98f40a3f6b7c4bca144ad15181bf"
+  },
+  {
+    "path": "3/processed/model_tables/airbnb_superhost_classification.csv",
+    "bytes": 5181539,
+    "sha256": "1c8cd4d739a91d565d0a0775ff12a7039485b34869390a89268fe2313a2fbe00"
+  },
+  {
+    "path": "3/processed/model_tables/hr_test_untouched.csv",
+    "bytes": 69208,
+    "sha256": "c03a3171f3d33895b591e397e676004faaf9e13015acbf09b6b3306bd253b1fd"
+  },
+  {
+    "path": "3/processed/model_tables/hr_training_only_mutual_information.csv",
+    "bytes": 1355,
+    "sha256": "ac3c8a446d361e4dec6fe9cc67a97a254803c1cea192b24e9ae9429cc6673e6d"
+  },
+  {
+    "path": "3/processed/model_tables/hr_train_mixed_smote.csv",
+    "bytes": 613200,
+    "sha256": "e68db274af60f635dbfcaa60b0f55e7eceabfb1e7a446e325809e843aca0068b"
+  },
+  {
+    "path": "3/processed/model_tables/hr_train_original.csv",
+    "bytes": 206393,
+    "sha256": "2a8af055affee25c340a6bb259f2d975cb10d841c39b56f8ce1a6aed3d99641a"
+  },
+  {
+    "path": "3/processed/model_tables/hr_train_undersampled.csv",
+    "bytes": 66286,
+    "sha256": "31e7d8ddd33df314fd8c8ad244e48894b506427c20c08d1b140fbf38e539a862"
+  },
+  {
+    "path": "3/processed/model_tables/nyc311_complaint_classification_sample.csv",
+    "bytes": 6978551,
+    "sha256": "b0882e325f8e39a1a87aaf898ccbb4239d6de56e94ff585a2cd2a7df21f40c74"
+  },
+  {
+    "path": "3/processed/model_tables/nyc311_resolution_regression_sample.csv",
+    "bytes": 7936160,
+    "sha256": "5755c4fa08936c6cca56de9b22fa1bfadac62c75b7b92532c23c799d516e5926"
+  },
+  {
+    "path": "3/processed/model_tables/nyc311_sampling_audit.csv",
+    "bytes": 94,
+    "sha256": "aaa2b574bbea1f0d21aca2d5bba8bfa5790629467f54bc91b0f5a677acea9578"
+  },
+  {
+    "path": "3/processed/model_tables/retail_cleaning_audit.csv",
+    "bytes": 160,
+    "sha256": "dd641f45d6c79ceebaeaff757675d8157af041504f8f1232bb6e0c83322d4794"
+  },
+  {
+    "path": "3/processed/model_tables/retail_future_segment_classification.csv",
+    "bytes": 545883,
+    "sha256": "485b824f57acc2f0587e7fc69636704e80b2614f2c7ffcd5c99a2bfc05a92373"
+  },
+  {
+    "path": "3/processed/model_tables/retail_future_spending_regression.csv",
+    "bytes": 565691,
+    "sha256": "487f0d635a35533eca7cecdeba5a4dbcce68f78d2a07705d2591d6a3915c9e90"
+  },
+  {
+    "path": "3/src/homework_experiments.py",
+    "bytes": 17386,
+    "sha256": "79163020f2138fda0a0824e40db25a9f23f384034ca2ab88e810e99d9ec0e221"
+  },
+  {
+    "path": "3/src/scratch_ml.py",
+    "bytes": 32392,
+    "sha256": "8c7b4a23454f5ab5dcfc25d79221c716f719a51951672c32b4a7f98130d7f783"
+  }
+]

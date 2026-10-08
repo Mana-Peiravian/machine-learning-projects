@@ -1,0 +1,20 @@
+# Observed Python/notebook/local tooling
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+# Disposable NYC sampling cache
+3/cache/
+# Original datasets, reports, figures and weights are not broadly ignored.

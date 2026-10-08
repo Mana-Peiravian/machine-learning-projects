@@ -1,0 +1,11 @@
+# TEMPLATE ONLY: confirm course-wide authorship before renaming.
+cff-version: 1.2.0
+message: "Confirm metadata and authorship before citing this portfolio."
+type: software
+title: "Machine Learning — Course Projects"
+authors:
+  - family-names: "ADD_CONFIRMED_FAMILY_NAME"
+    given-names: "ADD_CONFIRMED_GIVEN_NAMES"
+repository-code: "https://github.com/Mana-Peiravian/machine-learning-projects"
+url: "https://mana-peiravian.github.io/machine-learning-projects/"
+# Confirm collaborator scope/consent; HW3/course-wide authorship is unclear.

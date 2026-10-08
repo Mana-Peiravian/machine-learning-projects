@@ -1,0 +1,10 @@
+# Optional exclusions after privacy/licensing review; comments only.
+# 2/code/Covid.csv
+# 3/processed/model_tables/
+# 1/HW\#1 - Report.pdf
+# 1/HW\#1 - Report.docx
+# 2/report.pdf
+# 2/ML_HW2_Ensemble_Learning_Report.docx
+# 1/Homework1.pdf
+# 1/HW1-G.pdf
+# Ignore rules do not remove tracked files or Git history.
