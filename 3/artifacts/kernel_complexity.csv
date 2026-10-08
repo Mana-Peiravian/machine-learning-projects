@@ -1,0 +1,15 @@
+task,scale,n,kernel_matrix_float64_GB,cubic_operation_proxy_n3
+airbnb_price,full engineered table,19296,2.7741165161132812,7184588046336.0
+airbnb_price,experiment subset,700,0.0036507844924926758,343000000.0
+airbnb_superhost,full engineered table,22936,3.9194531440734863,12065714361856.0
+airbnb_superhost,experiment subset,800,0.00476837158203125,512000000.0
+nyc_complaint,full engineered table,34283,8.756846852600574,40293635743187.0
+nyc_complaint,experiment subset,420,0.0013142824172973633,74088000.0
+nyc_resolution,full engineered table,32755,7.993653602898121,35142512768875.0
+nyc_resolution,experiment subset,650,0.0031478703022003174,274625000.0
+hr_attrition,full engineered table,1470,0.0160999596118927,3176523000.0
+hr_attrition,experiment subset,1103,0.009064443409442902,1341919727.0
+retail_segment,full engineered table,3317,0.08197493106126785,36495256013.0
+retail_segment,experiment subset,800,0.00476837158203125,512000000.0
+retail_spending,full engineered table,3317,0.08197493106126785,36495256013.0
+retail_spending,experiment subset,700,0.0036507844924926758,343000000.0

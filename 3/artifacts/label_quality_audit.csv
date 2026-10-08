@@ -1,0 +1,7 @@
+target,affected_or_example_count,quality_risk
+Airbnb price,78,"Advertised price may encode minimum-stay quirks, blocked calendars, scrape errors, or genuine luxury inventory."
+Airbnb superhost,767,Platform-defined status changes over time and missing labels are not valid negatives.
+NYC complaint,9356,Caller-selected and agency-normalized categories overlap semantically; taxonomy changes create temporal label drift.
+NYC resolution,1520,"Open requests are censored, reopened cases and administrative closure can make Closed Date an imperfect service outcome."
+IBM HR attrition,237,"Small, unusually complete and widely described as synthetic; associations may not transport to a real employer."
+Retail future segment,1374,"Segments are constructed from a finite future window; inactivity can mean churn, seasonality, or observation-window truncation."

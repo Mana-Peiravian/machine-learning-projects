@@ -1,0 +1,5 @@
+dataset,raw_rows,maximum_missing_rate,raw_topology,principal_engineering_work
+Airbnb,23703,1.0,Mixed listing/host/geographic table,"Train-only imputation, compact missing indicators, monetary parsing, robust target variants"
+NYC 311,3409102,0.12600997578975,Large drifting event log,"Chunking, hash sampling, duplicate clusters, cyclic time, censoring"
+IBM HR,1470,0.0,Small clean imbalanced table,"Constant removal, domain ratios, training-only selection and resampling"
+Online Retail,541909,0.249266943342886,Transaction lines,"Returns/cancellations, chronological cutoff, customer aggregation, future labels"

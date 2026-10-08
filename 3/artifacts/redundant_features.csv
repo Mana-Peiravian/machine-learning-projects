@@ -1,0 +1,11 @@
+dataset,feature_1,feature_2,abs_spearman
+Airbnb,bathrooms,bathrooms_from_text,0.9999784690680729
+Airbnb,host_listings_count,host_total_listings_count,0.973206437754113
+Airbnb,host_listings_count,calculated_host_listings_count,0.9214043117746434
+Airbnb,accommodates,beds,0.904939711606772
+IBM HR,JobLevel,MonthlyIncome,0.9204286748392109
+IBM HR,YearsSinceLastPromotion,promotion_stagnation_ratio,0.9056381580221122
+Online Retail,return_count,return_value_rate,0.9581596163545565
+Online Retail,avg_order_value,max_order_value,0.9241369350114783
+Online Retail,tenure_days,frequency,0.9223996732696329
+Online Retail,total_units,gross_spend,0.9219605841021474

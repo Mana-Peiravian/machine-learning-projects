@@ -1,0 +1,173 @@
+dataset,feature,n_unique,dominant_fraction,near_constant
+Airbnb,calendar_updated,1,1.0,True
+Airbnb,calculated_host_listings_count_shared_rooms,8,0.995485803484791,True
+Airbnb,has_availability,3,0.9946842171876977,False
+Airbnb,host_has_profile_pic,3,0.9655739779774712,False
+Airbnb,host_identity_verified,3,0.8947812513183985,False
+Airbnb,room_type,4,0.8644897270387715,False
+Airbnb,calculated_host_listings_count_private_rooms,27,0.83044340378855,False
+Airbnb,source,2,0.805889549846011,False
+Airbnb,price_quote_total_price,3058,0.7512973041387166,False
+Airbnb,price_quote_price_per_night,3225,0.7512973041387166,False
+Airbnb,price_quote_checkin_date,184,0.7491456777623086,False
+Airbnb,price_quote_checkout_date,255,0.7491456777623086,False
+Airbnb,price_quote_raw,5293,0.7491456777623086,False
+Airbnb,host_profile_url,2963,0.7188963422351601,False
+Airbnb,host_profile_id,2964,0.7188541534826816,False
+Airbnb,hosts_time_as_user_years,18,0.7188541534826816,False
+Airbnb,hosts_time_as_user_months,13,0.7188541534826816,False
+Airbnb,hosts_time_as_host_years,17,0.7188541534826816,False
+Airbnb,hosts_time_as_host_months,13,0.7188541534826816,False
+Airbnb,neighbourhood_group_cleansed,18,0.7048474876597899,False
+Airbnb,license,5115,0.6938784120153567,False
+Airbnb,host_response_time,5,0.5790828165211155,False
+Airbnb,neighborhood_overview,7301,0.5592541028561785,False
+Airbnb,neighbourhood,2,0.5592541028561785,False
+Airbnb,host_verifications,8,0.54904442475636,False
+Airbnb,host_response_rate,48,0.5474834409146522,False
+Airbnb,host_is_superhost,3,0.5252921571109143,False
+Airbnb,number_of_reviews_l30d,32,0.5062228409905919,False
+Airbnb,maximum_maximum_nights,193,0.4566510568282496,False
+Airbnb,minimum_minimum_nights,73,0.44973210142176095,False
+Airbnb,bathrooms_text,46,0.4383411382525419,False
+Airbnb,bathrooms,30,0.4264860988060583,False
+Airbnb,maximum_nights_avg_ntm,1093,0.41838585833016917,False
+Airbnb,minimum_maximum_nights,163,0.4178795933004261,False
+Airbnb,instant_bookable,3,0.3992321647048897,False
+Airbnb,scrape_id,5,0.39838838965531786,False
+Airbnb,city,5,0.39838838965531786,False
+Airbnb,bedrooms,22,0.3966586508036957,False
+Airbnb,maximum_nights,185,0.3958570645066025,False
+Airbnb,minimum_nights,67,0.39155381175378645,False
+Airbnb,host_neighbourhood,608,0.3889381091001139,False
+Airbnb,host_about,6020,0.35864658482048684,False
+Airbnb,number_of_reviews_ly,167,0.34253048137366576,False
+Airbnb,last_scraped,9,0.34037885499725773,False
+Airbnb,calendar_last_scraped,9,0.34037885499725773,False
+Airbnb,host_acceptance_rate,93,0.33843817238324264,False
+Airbnb,calculated_host_listings_count,73,0.3318145382441041,False
+Airbnb,calculated_host_listings_count_entire_homes,70,0.32687845420410916,False
+Airbnb,property_type,68,0.3137155634307894,False
+Airbnb,review_scores_communication,122,0.2988651225583259,False
+Airbnb,host_since,3704,0.2964181749145678,False
+Airbnb,host_thumbnail_url,7534,0.2964181749145678,False
+Airbnb,host_total_listings_count,206,0.2964181749145678,False
+Airbnb,host_listings_count,209,0.26840484326878455,False
+Airbnb,review_scores_checkin,136,0.25587478378264356,False
+Airbnb,beds,37,0.24747922203940428,False
+Airbnb,maximum_minimum_nights,86,0.24659325823735392,False
+Airbnb,accommodates,16,0.23461165253343458,False
+Airbnb,host_location,734,0.23237564865206936,False
+Airbnb,number_of_reviews_ltm,167,0.22111125174028604,False
+Airbnb,estimated_occupancy_l365d,89,0.22111125174028604,False
+Airbnb,review_scores_accuracy,134,0.20845462599670928,False
+Airbnb,review_scores_rating,144,0.1954604902333038,False
+Airbnb,review_scores_cleanliness,143,0.19145255874783781,False
+Airbnb,price,3546,0.18588364342066405,False
+Airbnb,estimated_revenue_l365d,6607,0.18588364342066405,False
+Airbnb,minimum_nights_avg_ntm,410,0.18385858330169177,False
+Airbnb,availability_30,31,0.17293169640973716,False
+Airbnb,review_scores_location,161,0.16179386575538962,False
+Airbnb,number_of_reviews,734,0.13196641775302703,False
+Airbnb,first_review,3796,0.13196641775302703,False
+Airbnb,last_review,1473,0.13196641775302703,False
+Airbnb,review_scores_value,152,0.13196641775302703,False
+Airbnb,reviews_per_month,994,0.13196641775302703,False
+Airbnb,availability_60,61,0.12622874741593892,False
+Airbnb,neighbourhood_cleansed,139,0.10424840737459393,False
+Airbnb,availability_90,91,0.09496688182930431,False
+Airbnb,availability_eoy,304,0.08526346875922879,False
+Airbnb,availability_365,366,0.04813736657807029,False
+Airbnb,host_name,4659,0.015272328397249294,False
+Airbnb,host_picture_url,10423,0.015272328397249294,False
+Airbnb,host_id,10614,0.014512930852634687,False
+Airbnb,host_url,10614,0.014512930852634687,False
+Airbnb,description,20358,0.014217609585284563,False
+Airbnb,latitude,18872,0.0058220478420453105,False
+Airbnb,longitude,18885,0.0058220478420453105,False
+Airbnb,amenities,21776,0.0029532126735012446,False
+Airbnb,name,22810,0.0015609838417078006,False
+Airbnb,picture_url,23308,0.0005062650297430705,False
+Airbnb,id,23703,4.218875247858921e-05,False
+Airbnb,listing_url,23703,4.218875247858921e-05,False
+NYC 311,near_duplicate_report_count,3,0.9965872298223609,True
+NYC 311,Status,7,0.9500918822740133,False
+NYC 311,is_weekend,2,0.7371000204182832,False
+NYC 311,is_business_hours,2,0.5726161654464311,False
+NYC 311,Open Data Channel Type,4,0.45882799054925183,False
+NYC 311,Agency,15,0.43861389026631276,False
+NYC 311,Borough,6,0.30478662894145786,False
+NYC 311,Location Type,89,0.2963567949129306,False
+NYC 311,City,49,0.2923606452177464,False
+NYC 311,complaint_category,21,0.27290493830761603,False
+NYC 311,Problem (formerly Complaint Type),155,0.15762914564069655,False
+NYC 311,created_dayofweek,7,0.1544205582941983,False
+NYC 311,dow_sin,7,0.1544205582941983,False
+NYC 311,dow_cos,7,0.1544205582941983,False
+NYC 311,Problem Detail (formerly Descriptor),603,0.1125339089344573,False
+NYC 311,created_month,11,0.10150803605285419,False
+NYC 311,hour_cos,22,0.0872735758247528,False
+NYC 311,hour_sin,21,0.07546014059446372,False
+NYC 311,Resolution Description,435,0.07338914330717848,False
+NYC 311,created_hour,24,0.06148820114925765,False
+NYC 311,Council District,52,0.04579529212729341,False
+NYC 311,resolution_hours,25300,0.04457019514044862,False
+NYC 311,resolution_hours_capped,25137,0.04457019514044862,False
+NYC 311,log_resolution_hours,25300,0.04457019514044862,False
+NYC 311,Closed Date,31562,0.04433684333343056,False
+NYC 311,closed_at,31562,0.04433684333343056,False
+NYC 311,Community Board,77,0.041099087011055045,False
+NYC 311,created_day,31,0.03640288189481667,False
+NYC 311,Incident Zip,199,0.02867310328734358,False
+NYC 311,lon_round,3864,0.020039086427675525,False
+NYC 311,Latitude,26226,0.019951579500043753,False
+NYC 311,Longitude,26226,0.019951579500043753,False
+NYC 311,lat_round,3584,0.019951579500043753,False
+NYC 311,days_from_start,319,0.006183822885978473,False
+NYC 311,created_10min,22732,0.0007583933728086807,False
+NYC 311,Created Date,34136,0.0007292243969314237,False
+NYC 311,created_at,34136,0.0007292243969314237,False
+NYC 311,Unique Key,34283,2.916897587725695e-05,False
+IBM HR,EmployeeCount,1,1.0,True
+IBM HR,Over18,1,1.0,True
+IBM HR,StandardHours,1,1.0,True
+IBM HR,PerformanceRating,2,0.8462585034013606,False
+IBM HR,Attrition,2,0.8387755102040816,False
+IBM HR,OverTime,2,0.7170068027210884,False
+IBM HR,BusinessTravel,3,0.7095238095238096,False
+IBM HR,Department,3,0.6537414965986394,False
+IBM HR,WorkLifeBalance,4,0.6074829931972789,False
+IBM HR,Gender,2,0.6,False
+IBM HR,JobInvolvement,4,0.5904761904761905,False
+IBM HR,MaritalStatus,3,0.45782312925170066,False
+IBM HR,StockOptionLevel,4,0.42925170068027213,False
+IBM HR,EducationField,6,0.4122448979591837,False
+IBM HR,YearsSinceLastPromotion,16,0.3952380952380952,False
+IBM HR,Education,5,0.3891156462585034,False
+IBM HR,TrainingTimesLastYear,7,0.37210884353741497,False
+IBM HR,JobLevel,5,0.3693877551020408,False
+IBM HR,NumCompaniesWorked,10,0.354421768707483,False
+IBM HR,JobSatisfaction,4,0.3122448979591837,False
+IBM HR,RelationshipSatisfaction,4,0.3122448979591837,False
+IBM HR,EnvironmentSatisfaction,4,0.3081632653061224,False
+IBM HR,YearsInCurrentRole,19,0.2530612244897959,False
+IBM HR,YearsWithCurrManager,18,0.23401360544217686,False
+IBM HR,JobRole,9,0.2217687074829932,False
+IBM HR,DistanceFromHome,29,0.1435374149659864,False
+IBM HR,PercentSalaryHike,15,0.14285714285714285,False
+IBM HR,TotalWorkingYears,40,0.13741496598639455,False
+IBM HR,YearsAtCompany,37,0.13333333333333333,False
+IBM HR,Age,43,0.053061224489795916,False
+IBM HR,HourlyRate,71,0.019727891156462583,False
+IBM HR,DailyRate,886,0.004081632653061225,False
+IBM HR,MonthlyIncome,1349,0.0027210884353741495,False
+IBM HR,MonthlyRate,1427,0.0020408163265306124,False
+IBM HR,EmployeeNumber,1470,0.0006802721088435374,False
+Online Retail,Country,38,0.9143195628786382,False
+Online Retail,Quantity,722,0.2735274741700175,False
+Online Retail,CustomerID,4373,0.249266943342886,False
+Online Retail,UnitPrice,1630,0.09318169655790917,False
+Online Retail,Description,4224,0.004371582682701339,False
+Online Retail,StockCode,4070,0.004268244299319627,False
+Online Retail,InvoiceNo,25900,0.0020556956979861933,False
+Online Retail,InvoiceDate,23260,0.0020556956979861933,False

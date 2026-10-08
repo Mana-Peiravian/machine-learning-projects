@@ -1,0 +1,8 @@
+dataset,field,assessment,evidence,action
+Airbnb,host/review fields,MAR + structural,"Missingness varies by city, room type, host activity, and review count.",Preserve gaps and domain indicators; fit median/category handling on each training split.
+Airbnb,price,MAR / source-dependent,Availability of advertised price differs with scrape/source context.,Rows without a target are excluded; target labels are never imputed.
+NYC 311,Closed Date,MNAR-like right censoring,Missingness is mechanically tied to unresolved status and request age.,Open cases are censored and excluded from ordinary duration regression.
+NYC 311,geolocation,MAR,"Missingness depends on agency, channel, borough, and address availability.",Categorical location remains; coordinates require indicators/imputation in model folds.
+IBM HR,all fields,No observed missingness,Zero missing cells does not prove absence of collection or survivorship bias.,No imputation; audit constants and suspiciously clean schema.
+Online Retail,CustomerID,"MAR, possibly structural",Anonymous/guest transactions differ by country and invoice behavior.,Exclude from customer-level modeling because identities cannot be reconstructed safely.
+Online Retail,Description,MAR,Missingness is associated with stock/price and transaction process.,Description is not needed after behavioral aggregation.

@@ -1,0 +1,8 @@
+task,excluded_fields,reason
+Airbnb price,price_quote_*; estimated_revenue_l365d,Direct target proxy/post-outcome revenue
+Airbnb superhost,host_is_superhost raw label,Direct duplicate of classification target
+NYC resolution,Closed Date; Status; Resolution Description,Only known after or during resolution
+NYC complaint,raw complaint field,Direct source of engineered complaint_category target
+HR attrition,EmployeeNumber,Identifier with no transferable semantics
+Retail future spending,future_gross_spend; future_orders; future_return_value,Computed inside prediction horizon
+Retail segment,future_net_spending,Direct source of segment label

@@ -1,0 +1,9 @@
+algorithm,mathematical_scope,executed_on
+Logistic Regression,Classification,Airbnb superhost; NYC complaint; HR attrition; retail segment
+Linear Regression,Regression,Airbnb price; NYC resolution; retail future spending
+KNN,Both,All seven tasks using classifier/regressor variants
+Decision Tree,Both,All seven tasks using Gini/variance variants
+Kernel SVM,Classification,All four datasets through their classification target
+Kernel Ridge Regression,Regression,"Airbnb, NYC 311, and retail; HR has no regression target"
+Kernel KNN,Both,All seven tasks using classifier/regressor variants
+KPCA + Logistic,Classification,All four datasets through their classification target

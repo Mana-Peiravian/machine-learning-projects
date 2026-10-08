@@ -1,0 +1,5 @@
+dataset,bias_axis,dominant_fraction,reliability_consequence
+Airbnb,Geographic,0.39838838965531786,The largest city dominates; conclusions may reflect its inventory and regulations.
+NYC 311,Complaint/channel/time,0.15762914564069655,"Complaint propensity measures service access and reporting behavior, not only underlying incidents."
+IBM HR,Class and omitted-group,0.8387755102040816,Non-attrition dominates and protected attributes are incomplete.
+Online Retail,Country/identity,0.8882867986174059,UK and identified customers dominate; guest transactions are excluded from customer models.

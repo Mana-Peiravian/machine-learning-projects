@@ -1,0 +1,8 @@
+task,dataset,type,engineered_rows,experiment_train,experiment_test,encoded_features
+airbnb_price,Airbnb,regression,19296,700,300,97
+airbnb_superhost,Airbnb,classification,22936,800,300,98
+nyc_complaint,NYC 311,classification,34283,420,260,81
+nyc_resolution,NYC 311,regression,32755,650,300,87
+hr_attrition,IBM HR,classification,1470,1103,367,63
+retail_segment,Online Retail,classification,3317,800,300,26
+retail_spending,Online Retail,regression,3317,700,300,25

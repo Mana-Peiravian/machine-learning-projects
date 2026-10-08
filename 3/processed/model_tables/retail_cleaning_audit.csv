@@ -1,0 +1,6 @@
+,count
+raw_rows,541909
+exact_duplicates_removed,5268
+missing_customer_rows_removed,135037
+nonpositive_price_rows_removed,2512
+invalid_date_rows_removed,0

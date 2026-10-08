@@ -1,0 +1,69 @@
+dataset,missing_column,observed_feature,test,p_value,effect
+Airbnb,price,source,Chi-square / Cramer's V,0.0,0.8222405144429631
+Airbnb,price,city,Chi-square / Cramer's V,0.0,0.3978954778911956
+Airbnb,price,availability_365,Mann-Whitney U,3.315037265736639e-132,-0.25631385250209904
+Airbnb,price,number_of_reviews,Mann-Whitney U,4.773055195330884e-72,-0.18783188450236565
+Airbnb,price,host_listings_count,Mann-Whitney U,1.0288900352372361e-25,0.10942249497910228
+Airbnb,price,room_type,Chi-square / Cramer's V,2.5405246846028853e-19,0.06697026166521362
+Airbnb,host_response_rate,city,Chi-square / Cramer's V,0.0,0.8435414882673652
+Airbnb,host_response_rate,number_of_reviews,Mann-Whitney U,8.761845348032575e-207,-0.26148965936798774
+Airbnb,host_response_rate,host_listings_count,Mann-Whitney U,1.5094766451676037e-41,-0.11554193936812684
+Airbnb,host_response_rate,availability_365,Mann-Whitney U,8.556002189942017e-12,0.058258543048457456
+Airbnb,host_response_rate,room_type,Chi-square / Cramer's V,1.2046731833039711e-05,0.03571789094905811
+Airbnb,host_response_rate,source,Chi-square / Cramer's V,0.0687360846381156,0.012870407811481886
+Airbnb,review_scores_rating,number_of_reviews,Mann-Whitney U,0.0,-1.0
+Airbnb,review_scores_rating,room_type,Chi-square / Cramer's V,8.430565807501802e-118,0.16507562138355042
+Airbnb,review_scores_rating,availability_365,Mann-Whitney U,2.5001242801040746e-35,0.15001954565417974
+Airbnb,review_scores_rating,city,Chi-square / Cramer's V,2.3775870220206665e-30,0.08515214195185847
+Airbnb,review_scores_rating,host_listings_count,Mann-Whitney U,5.441458229904299e-19,0.1106885338257737
+Airbnb,review_scores_rating,source,Chi-square / Cramer's V,1.0167839588335417e-16,0.058709724404451
+Airbnb,bedrooms,room_type,Chi-square / Cramer's V,0.0,0.309781070888039
+Airbnb,bedrooms,source,Chi-square / Cramer's V,1.1346263760553169e-161,0.19158898892160708
+Airbnb,bedrooms,city,Chi-square / Cramer's V,5.8757204169912945e-103,0.15520434714748696
+Airbnb,bedrooms,availability_365,Mann-Whitney U,1.9207249260132002e-22,-0.20110623742824907
+Airbnb,bedrooms,number_of_reviews,Mann-Whitney U,3.71648121509952e-11,-0.13634459987080738
+Airbnb,bedrooms,host_listings_count,Mann-Whitney U,0.8731655361025852,0.003274606255882828
+Airbnb,host_is_superhost,host_listings_count,Mann-Whitney U,1.9107762351591392e-62,0.38590026608792405
+Airbnb,host_is_superhost,city,Chi-square / Cramer's V,1.3348379744097825e-55,0.11455914338250507
+Airbnb,host_is_superhost,number_of_reviews,Mann-Whitney U,3.238103143350208e-28,0.25733885549498337
+Airbnb,host_is_superhost,source,Chi-square / Cramer's V,7.713520890343957e-08,0.037997829287369285
+Airbnb,host_is_superhost,availability_365,Mann-Whitney U,3.1602911422772346e-06,-0.1089968704960187
+Airbnb,host_is_superhost,room_type,Chi-square / Cramer's V,0.035279773318568755,0.020723582641337467
+NYC 311,Closed Date,Status,Chi-square / Cramer's V,0.0,0.9696974655808529
+NYC 311,Closed Date,Problem (formerly Complaint Type),Chi-square / Cramer's V,0.0,0.5485525270892869
+NYC 311,Closed Date,Agency,Chi-square / Cramer's V,0.0,0.47489358753605665
+NYC 311,Closed Date,Open Data Channel Type,Chi-square / Cramer's V,4.444442636912698e-21,0.06995624655299976
+NYC 311,Closed Date,Borough,Chi-square / Cramer's V,0.0018524524600435923,0.030891804710339393
+NYC 311,Closed Date,created_hour,Mann-Whitney U,0.009731544146990052,0.051763558086172834
+NYC 311,Closed Date,created_dayofweek,Mann-Whitney U,0.16193886156577464,-0.027747128685976508
+NYC 311,Latitude,Problem (formerly Complaint Type),Chi-square / Cramer's V,0.0,0.5263956797149106
+NYC 311,Latitude,Agency,Chi-square / Cramer's V,0.0,0.36211847787122486
+NYC 311,Latitude,Open Data Channel Type,Chi-square / Cramer's V,0.0,0.28956710099230076
+NYC 311,Latitude,Borough,Chi-square / Cramer's V,2.5096602220462334e-196,0.21431277757978623
+NYC 311,Latitude,Status,Chi-square / Cramer's V,1.3770055070867974e-72,0.13149883392135728
+NYC 311,Latitude,created_dayofweek,Mann-Whitney U,0.48086770375984766,-0.020493829973316946
+NYC 311,Latitude,created_hour,Mann-Whitney U,0.6656477224765915,-0.012679481211335442
+NYC 311,Incident Zip,Problem (formerly Complaint Type),Chi-square / Cramer's V,0.0,0.5304534371851806
+NYC 311,Incident Zip,Borough,Chi-square / Cramer's V,0.0,0.3097405116553902
+NYC 311,Incident Zip,Agency,Chi-square / Cramer's V,1.1004580030065342e-130,0.18094947202061204
+NYC 311,Incident Zip,Open Data Channel Type,Chi-square / Cramer's V,1.7666831639433496e-27,0.07987938066850882
+NYC 311,Incident Zip,Status,Chi-square / Cramer's V,0.0023109174713468197,0.03047110076305617
+NYC 311,Incident Zip,created_hour,Mann-Whitney U,0.03127356046043404,-0.09247448484505705
+NYC 311,Incident Zip,created_dayofweek,Mann-Whitney U,0.6179572727660403,0.021220302555452486
+NYC 311,Resolution Description,Problem (formerly Complaint Type),Chi-square / Cramer's V,0.0,0.7481901110172064
+NYC 311,Resolution Description,Status,Chi-square / Cramer's V,0.0,0.6461513146424126
+NYC 311,Resolution Description,Agency,Chi-square / Cramer's V,0.0,0.4876184830611097
+NYC 311,Resolution Description,Borough,Chi-square / Cramer's V,1.266227352333259e-35,0.09315690429890609
+NYC 311,Resolution Description,Open Data Channel Type,Chi-square / Cramer's V,2.6219012282026794e-22,0.07197008901086567
+NYC 311,Resolution Description,created_hour,Mann-Whitney U,0.2599046722141082,0.02841920079268001
+NYC 311,Resolution Description,created_dayofweek,Mann-Whitney U,0.5363912663460091,-0.015453473242597271
+Online Retail,CustomerID,Quantity,Mann-Whitney U,0.0,-0.5050864691890362
+Online Retail,CustomerID,UnitPrice,Mann-Whitney U,8.339540454015246e-173,0.26294875412902674
+Online Retail,CustomerID,Country,Chi-square / Cramer's V,1.2677829217625668e-101,0.17148878100322476
+Online Retail,CustomerID,is_cancellation,Mann-Whitney U,1.3936540779330195e-20,-0.019921899035990842
+Online Retail,CustomerID,invoice_month,Mann-Whitney U,0.6317426749216022,-0.0044781001225893124
+Online Retail,Description,UnitPrice,Mann-Whitney U,2.939593989719627e-38,-0.9982952266345768
+Online Retail,Description,Quantity,Mann-Whitney U,0.0020820014681096712,-0.23454243309838974
+Online Retail,Description,invoice_month,Mann-Whitney U,0.01302526215270079,-0.1908629877943957
+Online Retail,Description,is_cancellation,Mann-Whitney U,0.315182978592646,-0.017699558764540768
+Online Retail,Description,Country,Chi-square / Cramer's V,0.9999999979907142,0.016475451987115596
